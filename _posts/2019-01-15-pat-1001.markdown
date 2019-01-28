@@ -1,6 +1,14 @@
 ---
-layout: post
-title: PAT-1001 害死人不偿命的(3n+1)猜
+layout:       post
+title:        "1001 害死人不偿命的(3n+1)猜想"
+subtitle:     "PAT"
+date:         2019-01-14 12:00:00
+author:       "Sike"
+header-img:   "img/in-post/1001-header-bg.jpg"
+header-mask:  0.3
+catalog: true
+tags:
+    - PTA
 ---
 ## 题目
 
@@ -26,7 +34,7 @@ title: PAT-1001 害死人不偿命的(3n+1)猜
 
 `5`
 
-题目来自 [PTA](https://pintia.cn/problem-sets/994805260223102976/problems/994805325918486528)
+题目来自 [PTA](https://pintia.cn/problem-sets/994805260223102976/problems/994805325918486528) 
 
 ## 思路
 
@@ -42,7 +50,7 @@ using namespace std;
 int main(void)
 {
 	int n, step = 0;
-
+	
 	scanf("%d",&n);
 	while(n != 1)
 	{
@@ -52,9 +60,9 @@ int main(void)
 			n = (3 * n + 1) / 2;
 		step++;
 	}
-
+	
 	printf("%d\n",step);
-
+	
 	return 0;
 }
 ```

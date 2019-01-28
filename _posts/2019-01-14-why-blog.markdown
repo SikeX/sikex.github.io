@@ -1,0 +1,21 @@
+---
+layout:       post
+title:        "为什么要写博客"
+subtitle:     "Why blog"
+date:         2019-01-14 12:00:00
+author:       "Sike"
+header-img:   "img/in-post/why-blog.jpg"
+header-mask:  0.3
+catalog:      false
+multilingual: false
+tags:
+    - Blog
+    - life
+---
+
+之前在写算法题的时候就一直写博客来记录题的思路，苦于一直找不到合适的平台加上自己太懒，就把这个计划一直搁置了，如今都9102年了，也是时候行动起来了。
+
+所以我想通过写博客的方式来记录一下所学的知识，应该会以算法题为主，还有一些学习计算机专业课遇到的问题，和学习C++，Java，Python，JavaScript的心得。另外也会记录一些学习方法，效率工具有的没的。
+
+---
+
