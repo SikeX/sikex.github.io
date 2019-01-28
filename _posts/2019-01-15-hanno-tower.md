@@ -13,9 +13,9 @@ tags:
 
 **汉诺塔永远只有三步：**
 
-![hanno](img/hanno.gif)
+![hanno](img/hanno.jpg)
 
-## 以下是思路
+## 思路
 此问题可以简化为三个步骤
 
 要想把A柱盘子全部移到C柱
