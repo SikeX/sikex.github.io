@@ -1,0 +1,205 @@
+body{
+    margin:2px;
+    background-color:rgb(231, 230, 226);
+}
+.top-header{
+  color:white;
+  border-left-style:solid;
+  border-left-color:rgb(128, 3, 126);
+  border-left-width:30px;
+  font-family:宋体;
+  font-weight: bold;
+  font-size:50px;
+  background-color:rgb(149, 184, 125);
+  text-align:left	;
+  padding:20px;
+}
+p{
+    text-align:center;
+    color:rgb(156, 206, 148);
+    margin:0 0;
+}
+.secbanner{
+
+}
+.secbanner ul{
+  float: left;
+  list-style-type: none;
+  margin-top: 5px;
+  padding: 0;
+  overflow: hidden;
+}
+.secbanner li{
+  float: left;
+}
+.secbanner li a{
+  font-family: 微软雅黑;
+  font-weight: bold;
+    display: block;
+    font-size: 20px;
+    color: rgb(85, 26, 139);
+    text-align: center;
+    padding: 0 7px;
+    text-decoration: none;
+}
+.secbanner li a:hover {
+    background-color: rgb(85, 26, 139);
+    color: white;
+}
+.secbanner serchbox{
+  margin-top: 5px;
+  positon: relative;
+
+}
+.list1{
+    list-style-type:none;
+    margin:0;
+    padding:5px;
+    float:left;
+    font-size:25px;
+    font-weight:bold;
+
+}
+.list1 a
+{
+  display:block;
+  font-weight:bold;
+  font-size:25px;
+  color:white;
+  background-color:#7A991A;
+  text-align:center;
+  padding:6px;
+  text-decoration:none;
+  text-transform:uppercase;
+}
+.list1 a:hover
+{
+  display:block;
+  font-weight:bold;
+  font-size:25px;
+  color:black;
+  background-color:rgb(247, 217, 129);
+  text-align:center;
+  padding:6px;
+  text-decoration:none;
+  text-transform:uppercase;
+}
+.box2{
+  background-color: gray;
+    height:100%;
+    float:left;
+    padding: 0;
+}
+
+.sort1{
+  text-align: center;
+    height:40px;
+    line-height:40px;
+    background-color:rgb(85, 27, 137);
+    color:rgb(148, 183, 125);
+    border-radius:6px;
+}
+.sort2{
+    font-size:25px;
+    font-weight:bold;
+    text-align:center;
+    line-height:40px;
+    background-color:rgb(85, 27, 137);
+    color:rgb(148, 183, 125);
+    border-radius:6px;
+}
+.sort3{
+    height:45px;
+    line-height:45px;
+    text-align:center;
+}
+
+.list2{
+    height:1000px;
+    list-style-type:none;
+    margin:0;
+    padding:0 5px;
+    float:left;
+}
+.list2 a
+{
+  display:block;
+  font-weight:bold;
+  font-size:25px;
+  color:black;
+  background-color:rgb(227, 196, 151);
+  text-align:center;
+  padding:6px;
+  text-decoration:none;
+  text-transform:uppercase;
+}
+.list2 a:hover
+{
+  color:white;
+  background-color:rgb(57, 57, 57);
+}
+
+
+.img1{
+    background-color:rgb(63, 63, 63);
+    height:550px;
+    padding:0 0;
+}
+.img1 li{
+      float:left;
+      display:inline;
+      margin:5px;
+      padding:0 0;
+}
+.hot{
+    background-color:rgb(151, 202, 97);
+    height:50px;
+    line-height:50px;
+    font-size:20px;
+    font-weight:bold;
+    padding-left:20px;
+}
+.list3{
+    height:100%;
+    margin:0;
+    float:left;
+    font-size:18px;
+    border:1px solid green;
+    padding-left:5px;
+    padding-right: 15px;
+    border-radius:6px;
+}
+.list3 ul{
+  list-style-type:decimal;
+}
+.list3 li a:hover{
+      color:green;
+      text-decoration: none;
+}
+.movie{
+    height:300px;
+}
+.movieimg{
+      float:left;
+}
+.movieimg img{
+        border:2px solid black;
+        margin:10px;
+}
+.moviep{
+      height:300px;
+      float:left;
+}
+.moviep p{
+      font-size:20px;
+      color:black;
+      text-align:left;
+      line-height:130%;
+}
+.moviep p.h{
+        margin-bottom:10px;
+}
+.movieimg p{
+        text-align:center;
+        color:black;
+}
