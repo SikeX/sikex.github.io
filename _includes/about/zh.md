@@ -4,7 +4,7 @@ Hello, 你好呀，我是Sike，目前自学编程中，稍微系统的学习了
 
 ##### Talks
 
-[戳这里可以看到所有文章分类](https://sikex.github.io/archive/)
+<h5><a href="{{'/archive/' | prepend: site.baseurl }}">戳这里可以看到所有文章分类</a></h5>
 
 因为评论系统还没有加进来，如果有什么问题或建议，可以投到邮箱哦 <br>
-** yoloxzx@outlook.com **
+#### yoloxzx@outlook.com
