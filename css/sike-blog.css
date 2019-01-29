@@ -509,7 +509,7 @@ pre.highlight {
   border-radius: 6px;
 }
 .highlighter-rouge .highlight pre {
-  font-size: 14px;
+  font-size: 16px;
   line-height: 1.5;
   color: #555;
   background: transparent;
@@ -560,7 +560,7 @@ body {
      *     TypeIsBeautiful,
      *     [This Post](http://zhuanlan.zhihu.com/ibuick/20186806) etc.
      */
-  font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Arial", "PingFang SC", "Hiragino Sans GB", "STHeiti", "Microsoft YaHei", "Microsoft JhengHei", "Source Han Sans SC", "Noto Sans CJK SC", "Source Han Sans CN", "Noto Sans SC", "Source Han Sans TC", "Noto Sans CJK TC", "WenQuanYi Micro Hei", SimSun, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont,"PingFang SC", "Georgia", "Microsoft YaHei", "Helvetica Neue", "Arial", "Hiragino Sans GB", "STHeiti",  "Microsoft JhengHei", "Source Han Sans SC", "Noto Sans CJK SC", "Source Han Sans CN", "Noto Sans SC", "Source Han Sans TC", "Noto Sans CJK TC", "WenQuanYi Micro Hei", SimSun, sans-serif;
   line-height: 1.7;
   font-size: 16px;
   color: #404040;
@@ -662,7 +662,7 @@ code,
 kbd,
 pre,
 samp {
-  font-family: "Fira Code", Menlo, Monaco, Consolas, "Courier New", monospace;
+  font-family: "Consolas", "Fira Code", Menlo, Monaco, "Courier New", monospace;
 }
 .postlist-container {
   margin-bottom: 15px;
