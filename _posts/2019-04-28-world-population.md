@@ -2,7 +2,7 @@
 layout: post
 title: "Visualize the world population "
 subtitle: "世界人口数据可视化"
-date: 2019-04-28 10:26:27
+date: 2019-05-05 10:26:27
 author: "Sike"
 header-img:   "img/in-post/1001-header-bg.jpg"
 header-mask: 0.3
