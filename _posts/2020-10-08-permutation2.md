@@ -1,7 +1,7 @@
 ---
 layout:       post
-title:        "全排列"
-subtitle:     "LeetCode-permute"
+title:        "全排列II"
+subtitle:     "LeetCode-permutation2"
 date:         2020-10-08 19:45:00
 author:       "Sike"
 header-img:   "img/in-post/1001-header-bg.jpg"

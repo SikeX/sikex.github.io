@@ -13,7 +13,7 @@ tags:
 
 **汉诺塔永远只有三步：**
 
-![hanno](img/hanno.jpg)
+![hanno](/img/hanno.jpg)
 
 ## 思路
 此问题可以简化为三个步骤
