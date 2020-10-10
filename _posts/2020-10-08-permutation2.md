@@ -33,8 +33,8 @@ tags:
 ```
 
 ## 思路
-
-大题思路与没有重复元素的全排列类似，但是需要去除重复的序列
+---
+大体思路与[没有重复元素的全排列](https://sikex.github.io/2020/10/03/permute/)类似，但是需要去除重复的序列
 
 res记录最后的结果
 
@@ -49,6 +49,8 @@ used[ ]用来记录元素是否使用过
 ![permutation2](/img/permutation2.png)
 
 图片来自LeetCode-[liweiwei1419](https://leetcode-cn.com/problems/permutations-ii/solution/hui-su-suan-fa-python-dai-ma-java-dai-ma-by-liwe-2/)
+
+---
 
 ## 代码实现
 

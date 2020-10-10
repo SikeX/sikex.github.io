@@ -509,9 +509,9 @@ pre.highlight {
   border-radius: 6px;
 }
 .highlighter-rouge .highlight pre {
-  font-size: 16px;
+  font-size: 19px;
   line-height: 1.5;
-  color: #555;
+  color: #F8F8FF;
   background: transparent;
   border: 0;
   margin: 0;
@@ -562,7 +562,7 @@ body {
      */
   font-family: -apple-system, BlinkMacSystemFont,"PingFang SC", "Georgia", "Helvetica Neue", "Arial", "Hiragino Sans GB", "STHeiti",  "Microsoft JhengHei", "Source Han Sans SC", "Noto Sans CJK SC", "Source Han Sans CN", "Noto Sans SC", "Source Han Sans TC", "Noto Sans CJK TC", "WenQuanYi Micro Hei", SimSun, sans-serif;
   line-height: 1.7;
-  font-size: 16px;
+  font-size: 20px;
   color: #404040;
   overflow-x: hidden;
   text-rendering: auto;
