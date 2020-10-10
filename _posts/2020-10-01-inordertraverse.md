@@ -1,6 +1,6 @@
 ---
 layout:       post
-title:        括号生成
+title:        树的中序遍历
 subtitle:     "LeetCode-inorderTraversal"
 date:         2020-10-01 19:45:00
 author:       "Sike"
